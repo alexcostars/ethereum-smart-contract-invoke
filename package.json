@@ -1,0 +1,14 @@
+{
+  "name": "ethereum-smart-contract-invoke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app-invoke-contract-method.js"
+  },
+  "author": "Alex Costa",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "1.6.1"
+  }
+}
